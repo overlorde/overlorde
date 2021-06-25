@@ -12,7 +12,7 @@
  
  📫 How to reach me: mail @farhansaif488@gmail.com or farhansaif@iut-dhaka.edu.  
  
- 😄 Pronouns: he/him/his.  
+ 😄 Pronouns: he/him/his/king.  
  
  #### look at my resume [here](https://github.com/overlorde/overlorde/blob/main/cv.pdf)
  
