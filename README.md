@@ -14,8 +14,13 @@
  
  😄 Pronouns: he/him/his.  
  
- #### look at my resume [here](https://github.com/overlorde/overlorde/blob/main/cv.pdf)
+ ### A few more .....
  
+ I'm a huge supporter of open-source projects , I honestly love stuffs that are created by community and supported by community .
+ Huge fan of suckless softwares ;) Clean code is the way to go. 
+ 
+ 
+ #### look at my resume [here](https://github.com/overlorde/overlorde/blob/main/cv.pdf)
  
  <p float="left" >
   <img  align="center" height="225px" src="https://github-readme-stats.vercel.app/api?username=overlorde&show_icons=true&theme=dark&hide=prs,issues,stars" />
