@@ -17,7 +17,7 @@
  ### A few more .....
  
  I'm a huge supporter of open-source projects , I honestly love stuffs that are created by community and supported by community .
- Huge fan of suckless softwares ;) Clean code is the way to go. 
+ Huge fan of suckless softwares (dwm and st -- superb) ;) Clean code is the way to go. 
  
  
  #### look at my resume [here](https://github.com/overlorde/overlorde/blob/main/cv.pdf)
