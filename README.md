@@ -1,4 +1,4 @@
-[(https://github-readme-stats.vercel.app/api?username=overlorde&hide=stars,prs,issues&theme=dark)]
+[!(https://github-readme-stats.vercel.app/api?username=overlorde&hide=stars,prs,issues&theme=dark)]
 <!--
 **overlorde/overlorde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
