@@ -1,5 +1,6 @@
-## Hi there! I'm Farhan Saif  
+## Hi there! I'm Saif  
 
+ 
 
 🔭 Currently working on web apps and a fancy interpreter named lox.  
 
@@ -13,7 +14,7 @@
  
  😄 Pronouns: he/him.  
  
- 
+ #### look at my resume [here](https://github.com/overlorde/overlorde/cv.pdf)
  
  
  <p float="left" >
