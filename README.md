@@ -1,11 +1,18 @@
-##Hi there! I'm Farhan Saif
+## Hi there! I'm Farhan Saif  
 
-🔭 Currently working on web apps and a fancy interpreter named lox.
- 🌱 Learning typescript and backend engineering stuffs.
- 👯 Looking to collaborate on open source projects -- primarily on web based backend/frontend framework/tool development.
- 💬 Ask me about programming languages , interpreters anything related from high level abstractions to low level stuffs.I would do my best to conduct sufficient research before answering your questions. 
- 📫 How to reach me: mail @farhansaif488@gmail.com or farhansaif@iut-dhaka.edu.
- 😄 Pronouns: he/him
+
+🔭 Currently working on web apps and a fancy interpreter named lox.  
+
+ 🌱 Learning typescript and backend engineering stuffs.  
+ 
+ 👯 Looking to collaborate on open source projects -- primarily on web based backend/frontend framework/tool development.  
+ 
+ 💬 Ask me about programming languages , interpreters anything related from high level abstractions to low level stuffs.I would do my best to conduct sufficient research before answering your questions.  
+ 
+ 📫 How to reach me: mail @farhansaif488@gmail.com or farhansaif@iut-dhaka.edu.  
+ 
+ 😄 Pronouns: he/him.  
+ 
  
  
  
