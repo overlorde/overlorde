@@ -1,6 +1,6 @@
 <p float="left" >
-  <img  align="center" height="225px" src="https://github-readme-stats.vercel.app/api?username=overlorde&show_icons=true&theme=dark&hide=prs,issues" />
-  <img  align="center" height="225px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=overlorde&theme=dark&langs_count=5" />
+  <img  align="center" height="225px" src="https://github-readme-stats.vercel.app/api?username=overlorde&show_icons=true&theme=dark&hide=prs,issues,stars" />
+  <img  align="center" height="225px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=overlorde&theme=dark&langs_count=3" />
 </p>
 <!--
 **overlorde/overlorde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
