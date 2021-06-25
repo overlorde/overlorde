@@ -14,7 +14,7 @@
  
  😄 Pronouns: he/him.  
  
- #### look at my resume [here](https://github.com/overlorde/overlorde/cv.pdf)
+ #### look at my resume [here](https://github.com/overlorde/overlorde/blob/main/cv.pdf)
  
  
  <p float="left" >
