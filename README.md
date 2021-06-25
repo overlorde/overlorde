@@ -1,4 +1,4 @@
-## Hi there! I'm Saif  
+#### Hi there! I'm Saif  
 
  
 
@@ -6,7 +6,7 @@
 
  🌱 Learning typescript and backend engineering stuffs.  
  
- 👯 Looking to collaborate on open source projects -- primarily on web based backend/frontend framework/tool development.  
+ 👯 Looking to collaborate on open source projects -- primarily on web based backend/frontend framework/tool/library development.  
  
  💬 Ask me about programming languages , interpreters anything related from high level abstractions to low level stuffs.I would do my best to conduct sufficient research before answering your questions.  
  
