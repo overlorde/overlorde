@@ -2,9 +2,9 @@
 
  
 
-🔭 Currently working on two node based web apps and a java based fancy interpreter named lox.  
+🔭 Currently working on two node based web apps. 
 
- 🌱 Learning typescript and some backend engineering stuffs.  
+🌱 Learning typescript and some backend engineering stuffs.  
  
  👯 Looking to collaborate on open source projects -- primarily on web based backend/frontend framework/tool/library development.  
  
