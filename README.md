@@ -20,7 +20,7 @@
  Huge fan of suckless softwares (dwm and st -- superb) ;) Clean code is the way to go. 
  
  
- ##### look at my resume [here](https://github.com/overlorde/overlorde/blob/main/cv.pdf)
+ ##### look at my resume [here](https://github.com/overlorde/overlorde/blob/main/farhansaif.pdf)
  
  <p float="left" >
   <img  align="center" height="225px" src="https://github-readme-stats.vercel.app/api?username=overlorde&show_icons=true&theme=dark&hide=stars" />
