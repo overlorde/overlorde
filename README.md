@@ -2,18 +2,11 @@
 
  
 
-🔭 Currently working on two node based web apps. 
+I'm an aspiring Software Engineer specialzing in backend development, mostly in nodejs runtime, though I can work with any framework with decent frontend skills. I'm also interested in computer security, where I'm more inclined to research in malware analysis and exploit development. I regularly try to participate in online capture-the-flag events where my focus is mostly on reverse engineering and binary exploitation.
+I'm an undergraduate currently studying at Islamic University Of Technology, Dhaka, Bangladesh.
 
-🌱 Learning typescript and some backend engineering stuffs.  
- 
- 👯 Looking to collaborate on open source projects -- primarily on web based backend/frontend framework/tool/library development.  
- 
- 💬 Ask me about programming languages , interpreters , web apps or anything related from high level abstractions to low level stuffs.  
- 
  📫 How to reach me: mail @farhansaif488@gmail.com / farhansaif@iut-dhaka.edu.  
- 
- 😄 Pronouns: he/him/his.  
- 
+  
  ### A few more .....
  
  I use arch for my daily chores , and vm to do my research stuff. I'm writing some malware analysis reports which I'll soon publish on github. 
