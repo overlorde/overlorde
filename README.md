@@ -16,8 +16,7 @@
  
  ### A few more .....
  
- I'm a huge supporter of open-source projects , I honestly love stuffs that are created by community and supported by community .
- Huge fan of suckless softwares (dwm and st -- superb) ;) Clean code is the way to go. 
+ I use arch for my daily chores , and vm to do my research stuff. I'm writing some malware analysis reports which I'll soon publish on github. 
  
  
  ##### look at my resume [here](https://github.com/overlorde/overlorde/blob/main/farhansaif.pdf)
